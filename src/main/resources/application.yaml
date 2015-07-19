@@ -1,8 +1,6 @@
 server:
-    port: 8081
     ssl:
         enabled: true
-        key-store: classpath:testkeystore
-        key-store-password: changeit
-        key-password: changeit
-        #protocol: SSL
+        keyStore: classpath:testkeystore
+        keyStorePassword: changeit
+        keyPassword: changeit
