@@ -1,4 +1,4 @@
-package com.pactel.demos.https;
+package com.chynten.demos.https;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
