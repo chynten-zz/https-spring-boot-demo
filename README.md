@@ -18,7 +18,7 @@ EnteEnter key password for<mycompany> (RETURN if same as keystore password):
 </code>
 </p>
 
-For more information visit my blog post at:
-[https://pactels.wordpress.com/2015/07/20/https-in-spring-boot-application/](https://pactels.wordpress.com/2015/07/20/https-in-spring-boot-application/)
+For more information visit my blog post at wordpress:
+[Configure HTTPS/SSL in Spring Boot application](http://wp.me/p7zWEq-1d)
 
 
